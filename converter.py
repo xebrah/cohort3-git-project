@@ -6,5 +6,5 @@ def celcius_to_fahrenheit(celcius):
     :param celcius: Temperature in Celsius
     :return: Temperature in Fahrenheit
     """
-    # return the converted temperature
+    # return the converted temperature to the caller
     return (celcius * 9/5) + 32
